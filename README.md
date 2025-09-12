@@ -1,5 +1,4 @@
 # LangGraph 
-
 ## 1. Core Concepts
 - Graph-based workflows
 - Nodes and edges
